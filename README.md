@@ -4,6 +4,8 @@
 
 기존의 이미지 기반 PDF 슬라이드를 AI OCR 기술을 통해 텍스트와 이미지로 분리하고, 편집 가능한 프레젠테이션 파일로 재구성해줍니다.
 
+> **🌟 Live Demo**: [https://pdf2pptx-r5gd-1nwm6zz6z-techkwons-projects.vercel.app/](https://pdf2pptx-r5gd-1nwm6zz6z-techkwons-projects.vercel.app/)
+
 ## ✨ 주요 기능
 
 - **NotebookLM 최적화**: NotebookLM이 생성한 슬라이드 형식에 맞춰 변환을 지원합니다.
